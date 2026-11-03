@@ -67,6 +67,6 @@
   "icon": "assets/replace-icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ziishaned/vscode-jetbrains-replace-in-files.git"
+    "url": "https://github.com/ziishaned/jetbrains-replace-in-files-for-vs-code.git"
   }
 }
