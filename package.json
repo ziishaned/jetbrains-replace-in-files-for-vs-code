@@ -2,7 +2,7 @@
   "name": "jetbrains-replace-in-files",
   "displayName": "JetBrains Replace in Files for VS Code",
   "description": "Find and replace across your workspace with live results and code preview.",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "publisher": "ziishaned",
   "engines": {
     "vscode": "^1.85.0"
@@ -68,5 +68,18 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ziishaned/jetbrains-replace-in-files-for-vs-code.git"
-  }
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ziishaned/jetbrains-replace-in-files-for-vs-code#readme",
+  "bugs": {
+    "url": "https://github.com/ziishaned/jetbrains-replace-in-files-for-vs-code/issues"
+  },
+  "keywords": [
+    "find",
+    "replace",
+    "find in files",
+    "replace in files",
+    "jetbrains",
+    "webstorm"
+  ]
 }
