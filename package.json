@@ -64,5 +64,9 @@
   "devDependencies": {
     "@vscode/vsce": "^3.6.0"
   },
-  "icon": "assets/replace-icon.png"
+  "icon": "assets/replace-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ziishaned/vscode-jetbrains-replace-in-files.git"
+  }
 }
